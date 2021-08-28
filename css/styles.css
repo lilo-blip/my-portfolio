@@ -1,6 +1,8 @@
 body {
   background-color: black;
   color: white;
+  border: 2px solid yellow;
+  padding: 6px;
 }
 .header {
   background-image: url(file:///home/lilian/Documents/f6f57aa2-abstract-yellow-background.jpg);
@@ -12,3 +14,4 @@ body {
   color: black;
   font-size: x-large;
 }
+
