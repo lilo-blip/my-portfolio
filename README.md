@@ -4,12 +4,9 @@
 ## Description
 A detailed personal portfolio. Includes my background, interests and projects.
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+* Running with Git
+* Clone the repo https://github.com/lilo-blip/my-portfolio.git
+* cd portfolio-landing-page
 ## Technologies Used
 I used HTML and styled it using a custom-made stylesheet in CSS.
 ## Support and contact details
