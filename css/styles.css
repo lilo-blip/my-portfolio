@@ -37,3 +37,6 @@ h2 {
 p, h3 {
   color: bisque;
 }
+.important{
+  font-style: italic;
+}
