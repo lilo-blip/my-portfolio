@@ -13,5 +13,10 @@ body {
   padding-top: 120px;
   color: black;
   font-size: x-large;
+  
 }
-
+img {
+  height: 450px;
+  width: 400px;
+  float: left;
+}
