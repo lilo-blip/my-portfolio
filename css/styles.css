@@ -3,7 +3,7 @@ body {
   color: white;
   border: 2px solid yellow;
   padding: 6px;
-}
+  }
 .header {
   background-image: url(file:///home/lilian/Documents/f6f57aa2-abstract-yellow-background.jpg);
   background-size: 1300px 500px;
@@ -13,10 +13,27 @@ body {
   padding-top: 120px;
   color: black;
   font-size: x-large;
-  
-}
+  }
 img {
-  height: 450px;
-  width: 400px;
+  height: 380px;
+  width: 370px;
   float: left;
+}
+ul#careers li {
+  display: inline;
+  color: black;
+}
+.first {
+border-right: 2px solid black;
+padding-right: 7px;
+}
+.work {
+  position: relative;
+  left: -35px;
+}
+h2 {
+  color: peru;
+}
+p, h3 {
+  color: bisque;
 }
